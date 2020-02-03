@@ -6,9 +6,8 @@ class App extends Component {
   render() {
     return(
       <div className = 'App'>
-        <Image url = {'https://http.cat/409'} />
-        {/* <Image url = 'https://www.google.com/url?sa=i&url=https%3A%2F%2Fdev.to%2Fteamxenox%2Ftop-10-programming-memes-pemes-4php&psig=AOvVaw1z0rmUgfT19r0opZB3KeI3&ust=1580772935103000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKCj65uEtOcCFQAAAAAdAAAAABAI'/> */} 
-        {/* how do I make the above url work? */}
+        <Image url = {'https://i.pinimg.com/236x/1a/41/cc/1a41cc0a485183de2ac86f9c63a4df16--nerd-geek-bugs.jpg'} />
+        
       </div>
     )
   }
